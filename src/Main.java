@@ -7,7 +7,7 @@ public class Main {
 
         int[] array1 = new int[]{1, 2, 3};
         double[] array2 = {1.57, 7.654, 9.986};
-        Boolean[] array3 = new Boolean[5];
+        boolean[] array3 = new boolean[5];
 
         System.out.println();
         System.out.println("Задача 2");
